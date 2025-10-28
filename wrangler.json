@@ -23,5 +23,6 @@
       "binding": "R2_BUCKET",
       "bucket_name": "0199e08f-ada8-7240-a4b6-c5a01fe4e06a"
     }
-  ]
+  ],
+  "pages_build_output_dir": "./dist"
 }
